@@ -3,10 +3,9 @@ html, body {
 }
 
 #canvas {
-    width: 800px;
-    height: 500px;
-    margin: 2em;
-    border: 5px solid black;
+    width: 900px;
+    height: 760px;
+    background-color: aqua;
 }
 
 img {
